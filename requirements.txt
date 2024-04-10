@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+numpy
+pandas
+Flask
+=======
+numpy
+pandas
+Flask
+>>>>>>> d2e2c16878d9d3790f804999520648884479fc42
+scikit-learn

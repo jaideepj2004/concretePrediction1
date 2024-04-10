@@ -1,0 +1,282 @@
+2024-04-02 18:14:54,068 - INFO - Model loaded successfully.
+2024-04-02 18:14:54,076 - INFO - Scaler loaded successfully.
+2024-04-02 18:14:54,097 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-02 18:14:54,098 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-02 18:14:54,104 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-02 18:14:55,561 - INFO - Model loaded successfully.
+2024-04-02 18:14:55,566 - INFO - Scaler loaded successfully.
+2024-04-02 18:14:55,584 - WARNING -  * Debugger is active!
+2024-04-02 18:14:55,584 - INFO -  * Debugger PIN: 454-210-885
+2024-04-02 18:14:59,285 - INFO - 127.0.0.1 - - [02/Apr/2024 18:14:59] "GET / HTTP/1.1" 200 -
+2024-04-02 18:14:59,361 - INFO - 127.0.0.1 - - [02/Apr/2024 18:14:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-04-02 18:15:24,918 - INFO - Model loaded successfully.
+2024-04-02 18:15:24,919 - INFO - Scaler loaded successfully.
+2024-04-02 18:15:24,936 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-02 18:15:24,936 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-02 18:15:24,943 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-02 18:15:26,150 - INFO - Model loaded successfully.
+2024-04-02 18:15:26,150 - INFO - Scaler loaded successfully.
+2024-04-02 18:15:26,166 - WARNING -  * Debugger is active!
+2024-04-02 18:15:26,166 - INFO -  * Debugger PIN: 454-210-885
+2024-04-02 18:15:29,218 - INFO - 127.0.0.1 - - [02/Apr/2024 18:15:29] "GET / HTTP/1.1" 200 -
+2024-04-02 18:15:29,272 - INFO - 127.0.0.1 - - [02/Apr/2024 18:15:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-04-02 18:15:32,722 - INFO - Predicted Compressive Strength: 60.092171 MPa
+2024-04-02 18:15:32,722 - INFO - 127.0.0.1 - - [02/Apr/2024 18:15:32] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-02 18:15:32,730 - INFO - 127.0.0.1 - - [02/Apr/2024 18:15:32] "GET /result?prediction=60.09217 HTTP/1.1" 200 -
+2024-04-03 23:42:09,620 - INFO - Model loaded successfully.
+2024-04-03 23:42:09,624 - INFO - Scaler loaded successfully.
+2024-04-03 23:42:09,678 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-03 23:42:09,678 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-03 23:42:09,697 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-03 23:42:11,074 - INFO - Model loaded successfully.
+2024-04-03 23:42:11,077 - INFO - Scaler loaded successfully.
+2024-04-03 23:42:11,105 - WARNING -  * Debugger is active!
+2024-04-03 23:42:11,112 - INFO -  * Debugger PIN: 454-210-885
+2024-04-03 23:42:17,783 - INFO - 127.0.0.1 - - [03/Apr/2024 23:42:17] "GET / HTTP/1.1" 200 -
+2024-04-03 23:42:17,873 - INFO - 127.0.0.1 - - [03/Apr/2024 23:42:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-04-03 23:42:17,913 - INFO - 127.0.0.1 - - [03/Apr/2024 23:42:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-03 23:42:30,972 - INFO -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-03 23:42:30,984 - INFO - Predicted Compressive Strength: 31.003386 MPa
+2024-04-03 23:42:30,984 - INFO - 127.0.0.1 - - [03/Apr/2024 23:42:30] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-03 23:42:30,996 - INFO - 127.0.0.1 - - [03/Apr/2024 23:42:30] "GET /result?prediction=31.003386 HTTP/1.1" 200 -
+2024-04-03 23:42:32,244 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-03 23:42:33,485 - INFO - Model loaded successfully.
+2024-04-03 23:42:33,494 - INFO - Scaler loaded successfully.
+2024-04-03 23:42:33,511 - WARNING -  * Debugger is active!
+2024-04-03 23:42:33,517 - INFO -  * Debugger PIN: 454-210-885
+2024-04-03 23:43:04,324 - INFO - Predicted Compressive Strength: 31.003386 MPa
+2024-04-03 23:43:04,325 - INFO - 127.0.0.1 - - [03/Apr/2024 23:43:04] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-03 23:43:04,334 - INFO - 127.0.0.1 - - [03/Apr/2024 23:43:04] "GET /result?prediction=31.003386 HTTP/1.1" 200 -
+2024-04-03 23:43:10,840 - INFO - Predicted Compressive Strength: 31.003386 MPa
+2024-04-03 23:43:10,840 - INFO - 127.0.0.1 - - [03/Apr/2024 23:43:10] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-03 23:43:10,848 - INFO - 127.0.0.1 - - [03/Apr/2024 23:43:10] "GET /result?prediction=31.003386 HTTP/1.1" 200 -
+2024-04-03 23:44:14,135 - INFO - Predicted Compressive Strength: 31.003386 MPa
+2024-04-03 23:44:14,138 - INFO - 127.0.0.1 - - [03/Apr/2024 23:44:14] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-03 23:44:14,146 - INFO - 127.0.0.1 - - [03/Apr/2024 23:44:14] "GET /result?prediction=31.003386 HTTP/1.1" 200 -
+2024-04-03 23:44:49,182 - INFO - Predicted Compressive Strength: 31.003386 MPa
+2024-04-03 23:44:49,184 - INFO - 127.0.0.1 - - [03/Apr/2024 23:44:49] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-03 23:44:49,189 - INFO - 127.0.0.1 - - [03/Apr/2024 23:44:49] "GET /result?prediction=31.003386 HTTP/1.1" 200 -
+2024-04-05 23:13:52,570 - INFO - Model loaded successfully.
+2024-04-05 23:13:52,571 - INFO - Scaler loaded successfully.
+2024-04-05 23:13:52,616 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-05 23:13:52,616 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-05 23:13:52,635 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-05 23:13:53,816 - INFO - Model loaded successfully.
+2024-04-05 23:13:53,819 - INFO - Scaler loaded successfully.
+2024-04-05 23:13:53,840 - WARNING -  * Debugger is active!
+2024-04-05 23:13:53,853 - INFO -  * Debugger PIN: 139-034-123
+2024-04-05 23:13:58,805 - INFO - 127.0.0.1 - - [05/Apr/2024 23:13:58] "GET / HTTP/1.1" 200 -
+2024-04-05 23:13:58,919 - INFO - 127.0.0.1 - - [05/Apr/2024 23:13:58] "GET /static/styles.css HTTP/1.1" 200 -
+2024-04-05 23:13:58,964 - INFO - 127.0.0.1 - - [05/Apr/2024 23:13:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-05 23:14:09,905 - INFO -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-05 23:14:09,916 - INFO - Predicted Compressive Strength: 61.879112 MPa
+2024-04-05 23:14:09,917 - INFO - 127.0.0.1 - - [05/Apr/2024 23:14:09] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-05 23:14:09,926 - INFO - 127.0.0.1 - - [05/Apr/2024 23:14:09] "GET /result?prediction=61.879112 HTTP/1.1" 200 -
+2024-04-05 23:14:11,190 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-05 23:14:12,416 - INFO - Model loaded successfully.
+2024-04-05 23:14:12,419 - INFO - Scaler loaded successfully.
+2024-04-05 23:14:12,443 - WARNING -  * Debugger is active!
+2024-04-05 23:14:12,448 - INFO -  * Debugger PIN: 139-034-123
+2024-04-08 18:20:33,192 - INFO - Model loaded successfully.
+2024-04-08 18:20:33,192 - INFO - Scaler loaded successfully.
+2024-04-08 18:20:33,239 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 18:20:33,239 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 18:20:33,271 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 18:20:35,048 - INFO - Model loaded successfully.
+2024-04-08 18:20:35,048 - INFO - Scaler loaded successfully.
+2024-04-08 18:20:35,073 - WARNING -  * Debugger is active!
+2024-04-08 18:20:35,075 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 18:21:02,052 - INFO - 127.0.0.1 - - [08/Apr/2024 18:21:02] "GET / HTTP/1.1" 200 -
+2024-04-08 18:21:02,392 - INFO - 127.0.0.1 - - [08/Apr/2024 18:21:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-04-08 18:21:02,421 - INFO - 127.0.0.1 - - [08/Apr/2024 18:21:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-08 18:41:04,220 - INFO - Model loaded successfully.
+2024-04-08 18:41:04,220 - INFO - Scaler loaded successfully.
+2024-04-08 18:41:04,250 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 18:41:04,250 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 18:41:04,265 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 18:41:05,677 - INFO - Model loaded successfully.
+2024-04-08 18:41:05,677 - INFO - Scaler loaded successfully.
+2024-04-08 18:41:05,693 - WARNING -  * Debugger is active!
+2024-04-08 18:41:05,693 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:52:53,946 - INFO - Model loaded successfully.
+2024-04-08 19:52:53,952 - INFO - Scaler loaded successfully.
+2024-04-08 19:52:53,981 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 19:52:53,982 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 19:52:53,992 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 19:52:55,313 - INFO - Model loaded successfully.
+2024-04-08 19:52:55,313 - INFO - Scaler loaded successfully.
+2024-04-08 19:52:55,342 - WARNING -  * Debugger is active!
+2024-04-08 19:52:55,346 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:54:25,613 - INFO - Model loaded successfully.
+2024-04-08 19:54:25,614 - INFO - Scaler loaded successfully.
+2024-04-08 19:54:25,642 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 19:54:25,642 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 19:54:25,652 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 19:54:27,073 - INFO - Model loaded successfully.
+2024-04-08 19:54:27,075 - INFO - Scaler loaded successfully.
+2024-04-08 19:54:27,093 - WARNING -  * Debugger is active!
+2024-04-08 19:54:27,098 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:54:31,884 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:31] "GET / HTTP/1.1" 200 -
+2024-04-08 19:54:31,920 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-04-08 19:54:35,915 - INFO -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-08 19:54:35,931 - INFO - Predicted Compressive Strength: 41.083359 MPa
+2024-04-08 19:54:35,932 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:35] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 19:54:35,938 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:35] "GET /result?prediction=41.08336 HTTP/1.1" 200 -
+2024-04-08 19:54:37,152 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 19:54:38,169 - INFO - Model loaded successfully.
+2024-04-08 19:54:38,171 - INFO - Scaler loaded successfully.
+2024-04-08 19:54:38,184 - WARNING -  * Debugger is active!
+2024-04-08 19:54:38,188 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:54:44,425 - INFO - Predicted Compressive Strength: 44.097340 MPa
+2024-04-08 19:54:44,426 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:44] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 19:54:44,431 - INFO - 127.0.0.1 - - [08/Apr/2024 19:54:44] "GET /result?prediction=44.09734 HTTP/1.1" 200 -
+2024-04-08 19:56:32,464 - INFO - Model loaded successfully.
+2024-04-08 19:56:32,464 - INFO - Scaler loaded successfully.
+2024-04-08 19:56:32,482 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 19:56:32,482 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 19:56:32,487 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 19:56:33,489 - INFO - Model loaded successfully.
+2024-04-08 19:56:33,489 - INFO - Scaler loaded successfully.
+2024-04-08 19:56:33,504 - WARNING -  * Debugger is active!
+2024-04-08 19:56:33,504 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:56:41,144 - INFO - 127.0.0.1 - - [08/Apr/2024 19:56:41] "GET / HTTP/1.1" 200 -
+2024-04-08 19:56:45,867 - INFO - Predicted Compressive Strength: 73.748123 MPa
+2024-04-08 19:56:45,867 - INFO - 127.0.0.1 - - [08/Apr/2024 19:56:45] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 19:56:45,872 - INFO - 127.0.0.1 - - [08/Apr/2024 19:56:45] "GET /result?prediction=73.74812 HTTP/1.1" 200 -
+2024-04-08 19:58:29,706 - INFO - Model loaded successfully.
+2024-04-08 19:58:29,709 - INFO - Scaler loaded successfully.
+2024-04-08 19:58:29,732 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 19:58:29,732 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 19:58:29,737 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 19:58:30,878 - INFO - Model loaded successfully.
+2024-04-08 19:58:30,880 - INFO - Scaler loaded successfully.
+2024-04-08 19:58:30,893 - WARNING -  * Debugger is active!
+2024-04-08 19:58:30,897 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 19:58:33,996 - INFO - 127.0.0.1 - - [08/Apr/2024 19:58:33] "GET / HTTP/1.1" 200 -
+2024-04-08 19:58:39,318 - INFO - Predicted Compressive Strength: 51.377613 MPa
+2024-04-08 19:58:39,319 - INFO - 127.0.0.1 - - [08/Apr/2024 19:58:39] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 19:58:39,329 - INFO - 127.0.0.1 - - [08/Apr/2024 19:58:39] "GET /result?prediction=51.377613 HTTP/1.1" 200 -
+2024-04-08 20:01:09,549 - INFO - Model loaded successfully.
+2024-04-08 20:01:09,549 - INFO - Scaler loaded successfully.
+2024-04-08 20:01:09,565 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 20:01:09,565 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 20:01:09,581 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 20:01:10,632 - INFO - Model loaded successfully.
+2024-04-08 20:01:10,632 - INFO - Scaler loaded successfully.
+2024-04-08 20:01:10,648 - WARNING -  * Debugger is active!
+2024-04-08 20:01:10,649 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 20:01:15,602 - INFO - 127.0.0.1 - - [08/Apr/2024 20:01:15] "GET / HTTP/1.1" 200 -
+2024-04-08 20:01:19,091 - INFO - Predicted Compressive Strength: 65.410439 MPa
+2024-04-08 20:01:19,092 - INFO - 127.0.0.1 - - [08/Apr/2024 20:01:19] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:01:19,097 - INFO - 127.0.0.1 - - [08/Apr/2024 20:01:19] "GET /result?prediction=65.41044 HTTP/1.1" 200 -
+2024-04-08 20:03:45,048 - INFO - Model loaded successfully.
+2024-04-08 20:03:45,057 - INFO - Scaler loaded successfully.
+2024-04-08 20:03:45,076 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 20:03:45,076 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 20:03:45,076 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 20:03:46,177 - INFO - Model loaded successfully.
+2024-04-08 20:03:46,190 - INFO - Scaler loaded successfully.
+2024-04-08 20:03:46,207 - WARNING -  * Debugger is active!
+2024-04-08 20:03:46,210 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 20:03:49,974 - INFO - 127.0.0.1 - - [08/Apr/2024 20:03:49] "GET / HTTP/1.1" 200 -
+2024-04-08 20:03:55,051 - INFO - Predicted Compressive Strength: 20.077591 MPa
+2024-04-08 20:03:55,052 - INFO - 127.0.0.1 - - [08/Apr/2024 20:03:55] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:03:55,060 - INFO - 127.0.0.1 - - [08/Apr/2024 20:03:55] "GET /result?prediction=20.07759 HTTP/1.1" 200 -
+2024-04-08 20:04:17,660 - INFO - Predicted Compressive Strength: 33.452309 MPa
+2024-04-08 20:04:17,661 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:17] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:04:17,663 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:17] "GET /result?prediction=33.45231 HTTP/1.1" 200 -
+2024-04-08 20:04:26,262 - INFO - Predicted Compressive Strength: 52.852009 MPa
+2024-04-08 20:04:26,263 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:26] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:04:26,266 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:26] "GET /result?prediction=52.85201 HTTP/1.1" 200 -
+2024-04-08 20:04:36,962 - INFO - Predicted Compressive Strength: 52.852009 MPa
+2024-04-08 20:04:36,963 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:36] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:04:36,971 - INFO - 127.0.0.1 - - [08/Apr/2024 20:04:36] "GET /result?prediction=52.85201 HTTP/1.1" 200 -
+2024-04-08 20:06:16,075 - INFO - Model loaded successfully.
+2024-04-08 20:06:16,078 - INFO - Scaler loaded successfully.
+2024-04-08 20:06:16,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 20:06:16,156 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 20:06:16,165 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 20:06:17,556 - INFO - Model loaded successfully.
+2024-04-08 20:06:17,557 - INFO - Scaler loaded successfully.
+2024-04-08 20:06:17,575 - WARNING -  * Debugger is active!
+2024-04-08 20:06:17,579 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 20:06:53,749 - INFO - Model loaded successfully.
+2024-04-08 20:06:53,749 - INFO - Scaler loaded successfully.
+2024-04-08 20:06:53,781 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 20:06:53,781 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 20:06:53,781 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 20:06:54,847 - INFO - Model loaded successfully.
+2024-04-08 20:06:54,847 - INFO - Scaler loaded successfully.
+2024-04-08 20:06:54,864 - WARNING -  * Debugger is active!
+2024-04-08 20:06:54,864 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 20:06:58,563 - INFO - 127.0.0.1 - - [08/Apr/2024 20:06:58] "GET / HTTP/1.1" 200 -
+2024-04-08 20:06:58,802 - INFO - 127.0.0.1 - - [08/Apr/2024 20:06:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-08 20:07:31,556 - INFO - Model loaded successfully.
+2024-04-08 20:07:31,559 - INFO - Scaler loaded successfully.
+2024-04-08 20:07:31,601 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-08 20:07:31,601 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-08 20:07:31,613 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-08 20:07:33,432 - INFO - Model loaded successfully.
+2024-04-08 20:07:33,435 - INFO - Scaler loaded successfully.
+2024-04-08 20:07:33,457 - WARNING -  * Debugger is active!
+2024-04-08 20:07:33,461 - INFO -  * Debugger PIN: 454-210-885
+2024-04-08 20:07:36,983 - INFO - 127.0.0.1 - - [08/Apr/2024 20:07:36] "GET / HTTP/1.1" 200 -
+2024-04-08 20:07:37,252 - INFO - 127.0.0.1 - - [08/Apr/2024 20:07:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-08 20:07:44,615 - INFO - Predicted Compressive Strength: 50.479877 MPa
+2024-04-08 20:07:44,616 - INFO - 127.0.0.1 - - [08/Apr/2024 20:07:44] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:07:44,623 - INFO - 127.0.0.1 - - [08/Apr/2024 20:07:44] "GET /result?prediction=50.479877 HTTP/1.1" 200 -
+2024-04-08 20:08:18,387 - INFO - Predicted Compressive Strength: 51.618198 MPa
+2024-04-08 20:08:18,387 - INFO - 127.0.0.1 - - [08/Apr/2024 20:08:18] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-08 20:08:18,390 - INFO - 127.0.0.1 - - [08/Apr/2024 20:08:18] "GET /result?prediction=51.6182 HTTP/1.1" 200 -
+2024-04-09 09:23:58,342 - INFO -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\cwp.py', reloading
+2024-04-09 09:23:59,611 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-09 09:24:00,959 - INFO - Model loaded successfully.
+2024-04-09 09:24:00,961 - INFO - Scaler loaded successfully.
+2024-04-09 09:24:00,980 - WARNING -  * Debugger is active!
+2024-04-09 09:24:00,984 - INFO -  * Debugger PIN: 454-210-885
+2024-04-10 19:30:59,756 - INFO - Model loaded successfully.
+2024-04-10 19:30:59,757 - INFO - Scaler loaded successfully.
+2024-04-10 19:30:59,799 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-10 19:30:59,799 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-10 19:30:59,822 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-10 19:31:01,229 - INFO - Model loaded successfully.
+2024-04-10 19:31:01,229 - INFO - Scaler loaded successfully.
+2024-04-10 19:31:01,240 - WARNING -  * Debugger is active!
+2024-04-10 19:31:01,240 - INFO -  * Debugger PIN: 454-210-885
+2024-04-10 19:31:32,906 - INFO - Model loaded successfully.
+2024-04-10 19:31:32,906 - INFO - Scaler loaded successfully.
+2024-04-10 19:31:32,921 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-10 19:31:32,929 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-10 19:31:32,934 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-10 19:31:34,167 - INFO - Model loaded successfully.
+2024-04-10 19:31:34,167 - INFO - Scaler loaded successfully.
+2024-04-10 19:31:34,180 - WARNING -  * Debugger is active!
+2024-04-10 19:31:34,186 - INFO -  * Debugger PIN: 454-210-885
+2024-04-10 19:31:47,523 - INFO - 127.0.0.1 - - [10/Apr/2024 19:31:47] "GET / HTTP/1.1" 200 -
+2024-04-10 19:31:47,651 - INFO - 127.0.0.1 - - [10/Apr/2024 19:31:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-10 19:31:50,860 - INFO -  * Detected change in 'C:\\Users\\jaide\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-04-10 19:31:50,868 - INFO - Predicted Compressive Strength: 38.804600 MPa
+2024-04-10 19:31:50,868 - INFO - 127.0.0.1 - - [10/Apr/2024 19:31:50] "[32mPOST /predict HTTP/1.1[0m" 302 -
+2024-04-10 19:31:50,874 - INFO - 127.0.0.1 - - [10/Apr/2024 19:31:50] "GET /result?prediction=38.8046 HTTP/1.1" 200 -
+2024-04-10 19:31:52,178 - INFO -  * Restarting with watchdog (windowsapi)
+2024-04-10 19:31:53,472 - INFO - Model loaded successfully.
+2024-04-10 19:31:53,476 - INFO - Scaler loaded successfully.
+2024-04-10 19:31:53,491 - WARNING -  * Debugger is active!
+2024-04-10 19:31:53,494 - INFO -  * Debugger PIN: 454-210-885

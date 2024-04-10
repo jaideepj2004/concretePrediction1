@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Concrete Strength Prediction</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(to right, #AED6F1, #3498DB);
+            color: #333;
+            font-family: 'Arial', sans-serif;
+            padding: 40px;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 30px;
+            max-width: 600px;
+            margin: auto;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #007bff;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #ffffff;
+            transition: border-color 0.3s ease;
+        }
+        input[type="number"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+        button[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Concrete Strength Prediction</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="cement">Cement:</label>
+                <input type="number" id="cement" name="cement" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="blast_furnace_slag">Blast Furnace Slag:</label>
+                <input type="number" id="blast_furnace_slag" name="blast_furnace_slag" class="form-control" required>
+            </div>
+            <!-- Add input fields for the remaining features here -->
+            <div class="form-group">
+                <label for="fly_ash">Fly Ash:</label>
+                <input type="number" id="fly_ash" name="fly_ash" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="water">Water:</label>
+                <input type="number" id="water" name="water" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="superplasticizer">Superplasticizer:</label>
+                <input type="number" id="superplasticizer" name="superplasticizer" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="coarse_aggregate">Coarse Aggregate:</label>
+                <input type="number" id="coarse_aggregate" name="coarse_aggregate" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="fine_aggregate">Fine Aggregate:</label>
+                <input type="number" id="fine_aggregate" name="fine_aggregate" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="age">Age (in days):</label>
+                <input type="number" id="age" name="age" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
